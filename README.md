@@ -1,4 +1,4 @@
-Front End for SmokeVoter
+# Front End for SmokeVoter
 
 An overview of main benefits provided by Smokevoter will be an semi-automatic upsmoking service that upsmokes on your behalf according to rules you set. You can control who the service smokes on, how much smoke power is used, and when to upsmoke.  
 
