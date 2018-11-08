@@ -1,0 +1,12 @@
+.borderajust{
+    border-style: solid;
+    border-color: #099249;
+    border-width: 1px;
+}
+
+.menuxuser{
+    display: over;
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
