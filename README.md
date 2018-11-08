@@ -1,5 +1,8 @@
 # Front End for SmokeVoter
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/39602325/48223079-0920d880-e34b-11e8-9ef3-9b4a1d0cb3bd.png" width="400px" height="400px"/></p>
+
 An overview of main benefits provided by Smokevoter will be an semi-automatic upsmoking service that upsmokes on your behalf according to rules you set. You can control who the service smokes on, how much smoke power is used, and when to upsmoke.  
 
 Smokevoter will work for you as your own personal assistant 24/7 so you will never miss toking on your favorite cannabis authors! When Smokevoter, upsmokes for you, the upsmoke is actually done from your Smoke.io account so appears exactly as if you manually voted on a post yourself. 
